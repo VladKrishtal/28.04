@@ -67,4 +67,61 @@ p, footer a {
 
 .white {
     color: white;
+} 
+
+header {
+    display: flex;
+    padding-left: 215px;
+    padding-right: 215px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+header ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    margin-right: 250px;
+}
+
+header div {
+    display: flex;
+    gap: 50px;
+}
+.section2 {
+    display: flex;
+    padding-left: 215px;
+    padding-right: 215px;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.section3 div {
+    display: flex;
+    padding-left: 215px;
+    padding-right: 215px;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.section3 img {
+    max-width: 370px;
+    
+}
+.section4 > div {
+    display: flex;
+    padding-left: 215px;
+    padding-right: 215px;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.section4 > div > div {
+    max-width: 270px;
+}
+
+.section4 img {
+    max-width: 100%;
 }
