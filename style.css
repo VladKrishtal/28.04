@@ -1,0 +1,70 @@
+h1 {
+    font-family: 'Railway';
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 3%;
+}
+
+.blue {
+    color: #2196F3;
+}
+
+.black {
+    color: #000000;
+}
+
+header a {
+    font-family: 'Roboto';
+    font-size: 14px;
+    letter-spacing: 2%;
+    font-weight: 400;
+    text-decoration: none;
+    color: #212121;
+}
+
+h2 {
+    font-family: 'Roboto';
+    font-size: 44px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 6%;
+    line-height: 60px;
+}
+
+button {
+    font-family: 'Roboto';
+    font-size: 16px;
+    letter-spacing: 6%;
+    font-weight: bold;
+    color: white;
+    line-height: 30px;
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-size: 36px;
+    letter-spacing: 3%;
+    font-weight: bold;
+    color: #212121;
+}
+
+h6 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    letter-spacing: 3%;
+    font-weight: bold;
+    color: #212121;
+}
+
+p, footer a {
+    font-family: 'Roboto';
+    font-size: 16px;
+    letter-spacing: 3%;
+    font-weight: normal;
+    color: #757575;
+    line-height: 24px;
+}
+
+.white {
+    color: white;
+}
